@@ -27,8 +27,6 @@ body {
   }
   #bot_img {
     flex: 1; 
-    margin-left: auto;
-    margin-right: auto;
     background: url(./img/ROE_Main.png) no-repeat;
     background-size: contain;
     width: 800px;
